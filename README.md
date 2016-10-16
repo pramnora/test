@@ -58,3 +58,7 @@ Col 1 | Col 2
 ------ | -------
 data 1.1 | data 1.2
 data 2.1 | data 2.2
+
+<del>strikethrough text</del>
+~~strikethrough text~~
+
