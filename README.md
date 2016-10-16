@@ -1,6 +1,9 @@
 # test
 ...test repo...
 
+![Paul's pic](paul.jpg)
+<!--Format: ![Alt Text](http://www.github.com/pramnora/test/paul.jpg)-->
+
 **Bold text**  
 __This is also bold text effect; being combined with *itallic*__
 
@@ -41,6 +44,7 @@ Ordered list...
 I think you should use a 
 `<addr>` element here.
  
-![Paul's pic](paul.jpg)
-<!--Format: ![Alt Text](http://www.github.com/pramnora/test/paul.jpg)-->
+     Sub printMessage(strMessage)
+         PRINT strMessage
+     End Sub
 
