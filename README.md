@@ -41,9 +41,6 @@ Ordered list...
 I think you should use a 
 `<addr>` element here.
  
- ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
 ![Paul's pic](paul.jpg)
-Format: ![Alt Text]("http://www.github.com/pramnora/test/paul.jpg")
+<!--Format: ![Alt Text](http://www.github.com/pramnora/test/paul.jpg)-->
 
