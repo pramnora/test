@@ -3,7 +3,7 @@
 
 **Bold text**
 
-*italic text*
+*itallic text*
 
 [Link to Google](http://www.google.com)
 
@@ -27,5 +27,13 @@ Unordered list...
  * Sub list item 1
  * Sub list item 2
  * Sub list item 3
+ 
+Ordered list...
+
+1. List item 1
+2. List item 2
+3. List item 3
+ * List item 1
+ * List item 2
  
  
