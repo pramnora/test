@@ -2,6 +2,7 @@
 ...test repo...
 
 **Bold text**
+__This is also bold text effect; being combined with *itallic*__
 
 *itallic text*
 
