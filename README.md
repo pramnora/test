@@ -38,7 +38,5 @@ Ordered list...
  * List item 1
  * List item 2
  
-I'm really not too sure if I'm doing this 'inline quote' correctly?
- 
-<addr>inline quote
+I think you should use a '<html>' element here.
  
