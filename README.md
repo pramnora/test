@@ -52,3 +52,9 @@ I think you should use a
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+
+Col 1 | Col 2
+------ | -------
+data 1.1 | data 1.2
+data 2.1 | data 2.2
