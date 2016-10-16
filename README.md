@@ -45,5 +45,5 @@ I think you should use a
 Format: ![Alt Text](url)
 
 ![Paul's pic](paul.jpg)
-Format: ![Alt Text](http://www.github.com/pramnora/test/paul.jpg)
+Format: ![Alt Text]("http://www.github.com/pramnora/test/paul.jpg")
 
