@@ -59,6 +59,8 @@ Col 1 | Col 2
 data 1.1 | data 1.2
 data 2.1 | data 2.2
 
-<del>strikethrough text</del>
-~~strikethrough text~~
+<del>strikethrough text method 1</del>
+~~strikethrough text method 2~~
+
+:aries: :v:
 
