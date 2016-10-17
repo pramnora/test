@@ -1,7 +1,7 @@
 # test
 ...test repo...
 
-![Paul's pic](paul.jpg)
+![Paul's pic](code.png)
 <!--Format: ![Alt Text](http://www.github.com/pramnora/test/paul.jpg)-->
 
 **Bold text**  
