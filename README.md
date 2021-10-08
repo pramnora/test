@@ -12,17 +12,17 @@ __This is also bold text effect; being combined with *itallic*__
 [Link to Google](http://www.google.com)
 
 
-#1Header text
-##2Header text
-###3Header text
-####4Header text
-#####5Header text
-######6Header text
+# Header 1 text
+##  Header 2 text
+### Header 3 text
+#### Header 4 text
+##### Header 5 text
+###### Header 6 text
 
 This is a pair of 'abc' back ticks
 
 This is quoted text 
-> To be; or, not to be...
+> To be; or, not to be...  
 > That is the question?
 
 Unordered list...
