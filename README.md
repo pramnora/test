@@ -27,11 +27,11 @@ This is quoted text
 
 Unordered list...
 
-* List item 1
-* List item 2
- - Sub list item 1
- - Sub list item 2
- - Sub list item 3
+* List item 1  
+* List item 2  
+ * Sub list item 1  
+ * Sub list item 2  
+ * Sub list item 3  
  
 Ordered list...
 
